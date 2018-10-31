@@ -1,0 +1,51 @@
+---
+layout: post
+title: 6.8 周报
+date: '2018-06-08 10:46:23'
+---
+
+#### 本周计划进展
+
+| 项目名         | 进度              | 备注  |
+| ------------- |:----------------| :---------|
+| DataPark2 数据组件 |  80% | 封装成了业务组件供调用 |
+| 客服电话服务切换 |  80%   | 机器已经申请，服务商这周没有时间，下周一开会，然后实施  |
+
+#### 下周计划
+
+| 项目名         | 计划              | 备注  |
+| ------------- |:----------------| :---------|
+| DataPark2 数据组件 |  100% |  |
+| 客服电话服务切换 |  80%   | 跟进测试环境搭建  |
+
+#### FTime 
+##### 基于Web Component的业务组件
+http://test.office.jiedaibao.com/datalake/
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>DataLake Web Component Usage Demo</title>
+</head>
+
+<body>
+  <datalake-element id="test" env="prod"></datalake-element>
+  <script src="http://test.office.jiedaibao.com/datalake/datalake.js"></script>
+</body>
+
+</html>
+```
+
+使用Angular2写的组件，但是使用的时候不需要引入任何资源，相当于一个原生组件，这个亮点太亮了，大有用处。
+
+
+#### 问题、建议、总结或规划
+##### 基于Node.js的前后端分离设想
+在前端资源和PHP Server之间加入Node.js中间层，这个中间层的作用包括前端能力增强（首屏渲染、自定义路由、BigBipe等）和 业务逻辑处理。比较纠结的一个点在于业务逻辑处理，和家玮讨论之后的结论为：在公司后端Server服务化做的不好的情况下，这一层只做数据转发，不要在这一层做业务处理:比如后端号称的微服务聚合。
+
+
+#### 长期学习计划
+- 《得到》生命科学50讲
+推荐得到这个APP，很多高质量的音频，和读书不一样的体验。

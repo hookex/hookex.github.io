@@ -1,0 +1,53 @@
+---
+layout: post
+title: "【周报】7.13"
+date: '2018-07-13 12:03:26'
+---
+
+#### 本周计划进展
+
+| 项目名         | 进度              | 备注  |
+| ------------- |:----------------| :---------|
+| 数据组件 | 90% | 找到了比较好的http封装方案 |
+| DataPark2 整体测试 |  80% |  |
+| DataPark2 整体迁移 |  50% |  |
+| json-schema-convertor |  70% | 解决datapark中核心的schema转换问题。json到json-schema的转换器，配备了自动测试脚本 |
+
+
+#### 下周计划
+
+| 项目名         | 计划              | 备注  |
+| ------------- |:----------------| :---------|
+| 数据组件 | 95% |  |
+| DataPark2 整体测试 |  90% |  |
+| DataPark2 整体迁移 |  90% |  |
+| json-schema-convertor |  100% |  |
+
+
+#### 问题、建议、总结或规划
+##### chai和mocha自动测试脚本的开发体验
+继上次用chai和mocha编写php自动化测试脚本的之后，又一次边开发变写测试脚本。
+项目地址：http://git.jdb-dev.com/plutolab/json-schema-converter/tree/master
+这个项目是js工具库，编写自动化测试脚本非常方便。
+如果你没有体验过边开发变写测试脚本的，强烈推荐体验。
+大概体验是这样的：
+1. 代码测试验证变得统一（这里是指开发自己边开发边验证的动作）
+2. 放心去写新写的代码，放心重构，因为之前的代码都能够得到保证。
+3. 这种场景下编写自测脚本，并没有增加多少时间
+
+
+![-----2018-07-13---8.01.05](/content/images/2018/07/-----2018-07-13---8.01.05.png)
+
+#### The better way to write an API service in Angular 4
+https://medium.com/netscape/the-better-way-to-write-api-service-in-angular-4-c9178ecf7f48
+
+##### AngularX数据组件优化方向
+- 如何更优雅的分工Service、Component、View？
+- 提取出通用的tslint方案
+- 有没有办法通过包装一层shadow dom进行物理隔离？
+- 提取出通用的HTTP库（doing）
+
+#### 长期学习计划
+- 《得到》生命科学50讲
+推荐得到这个APP，很多高质量的音频，和读书不一样的体验。
+- lighthouse
