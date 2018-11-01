@@ -4,7 +4,7 @@ title: python版2048
 date: '2018-11-01 09:37'
 ---
 
-###《online 2048》
+### python online 2048
 
 use python tornado and js
 
