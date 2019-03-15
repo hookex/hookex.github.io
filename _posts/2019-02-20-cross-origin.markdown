@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 跨域总结
+title: 跨域
 date: '2019-02-20 10:00'
 ---
 
