@@ -23,7 +23,7 @@ github_username:  hookex
 
 # Build settings
 markdown: kramdown
-theme: red-star
+remote_theme: hookex/red-star
 plugins:
   - jekyll-feed
 
