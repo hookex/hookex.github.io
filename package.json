@@ -4,7 +4,7 @@
   "description": "hooke blog",
   "scripts": {
     "start": "bundle exec jekyll serve",
-    "build": "jekyll build"
+    "build": "jJEKYLL_ENV=production bundle exec jekyll build"
   },
   "repository": {
     "type": "git",
