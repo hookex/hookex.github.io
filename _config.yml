@@ -23,6 +23,7 @@ github_username:  hookex
 
 # Build settings
 markdown: kramdown
+google_analytics: UA-140038422-1
 # theme: red-star
 remote_theme: hookex/red-star
 plugins:
