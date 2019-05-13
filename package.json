@@ -1,0 +1,23 @@
+{
+  "name": "hooke.blog",
+  "version": "1.0.0",
+  "description": "hooke blog",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "build": "jekyll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hookex/hookex.github.io.git"
+  },
+  "keywords": [
+    "hooke",
+    "blog"
+  ],
+  "author": "hooke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hookex/hookex.github.io/issues"
+  },
+  "homepage": "https://github.com/hookex/hookex.github.io#readme"
+}
