@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "red-hooke"
   spec.version       = "0.1.0"
-  spec.authors       = ["huxiaohui"]
-  spec.email         = ["huxiaohui@megvii.com"]
+  spec.authors       = ["hookex"]
+  spec.email         = ["cookmycode@gmail.com"]
 
-  spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "red hooke summary"
+  spec.homepage      = "https://hooke.site"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
