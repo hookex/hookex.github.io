@@ -1,0 +1,8 @@
+---
+layout: post
+title: 仿真系统设计及AVS调研
+date: '2019-5-14'
+---
+
+
+<iframe src="https://www.xmind.net/embed/tK6K" width="900px" height="1000px" frameborder="0" scrolling="no" allowfullscreen></iframe>
