@@ -4,4 +4,28 @@ title: About
 permalink: /about/
 ---
 
-胡克定律
+### 职业
+前端工程师
+
+### 邮箱
+cookmycode@gmail.com
+
+### 公司
+megvii旷视
+
+### 微信
+vita-MX
+
+### 相关链接
+
+#### Github
+https://github.com/hookex
+
+#### Angular Today
+https://ng.today/ （建设中）
+
+#### 2048 online
+http://2048.hooke.site/
+
+#### 打飞机游戏
+http://cdn.hooke.site/airplane/
