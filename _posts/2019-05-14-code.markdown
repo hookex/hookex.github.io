@@ -5,4 +5,4 @@ date: '2019-5-14'
 ---
 
 
-<iframe src="https://www.xmind.net/embed/tK6K" width="900px" height="1000px" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://www.xmind.net/embed/QCfd" width="900px" height="1000px" frameborder="0" scrolling="no" allowfullscreen></iframe>
