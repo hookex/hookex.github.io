@@ -7,9 +7,6 @@ permalink: /about/
 ### 职业
 前端工程师
 
-### 邮箱
-cookmycode@gmail.com
-
 ### 公司
 megvii旷视
 
