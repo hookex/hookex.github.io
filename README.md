@@ -1,6 +1,3 @@
-# hookex.github.io
-my bolg
-
 # Site
 
 https://hooke.site
