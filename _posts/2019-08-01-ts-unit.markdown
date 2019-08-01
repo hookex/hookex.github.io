@@ -4,7 +4,10 @@ title: Typescript with  Unit Test
 date: '2019-08-01 19:00'
 ---
 
-
 使用typescript + unit test（Jest）的好处，
 
 就是盲写了一天代码（3D），最后跑在浏览器里达到完美的预期。
+
+```
+Showing 18 changed files with 682 additions and 141 deletions
+```
