@@ -16,7 +16,7 @@
 title: hooke
 email: cookemycode@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Live a clear.
+  Live clear.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hooke.site" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hookex
