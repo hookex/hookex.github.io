@@ -31,7 +31,7 @@ cookmycode@gmail.com
 [https://cdn.hooke.life/bviz/](https://cdn.hooke.life/bviz/)
 
 #### 3D性能测试
-https://cdn.hooke.life/3d-performance/
+[https://cdn.hooke.life/3d-performance/](https://cdn.hooke.life/3d-performance/)
 
 #### 2048 online (python)
 [http://2048.hooke.life/](http://2048.hooke.life)
