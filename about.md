@@ -24,7 +24,7 @@ cookmycode@gmail.com
 #### Github
 [https://github.com/hookex](https://github.com/hookex)
 
-#### GIst
+#### Gist
 [https://gist.github.com/hookex](https://gist.github.com/hookex)
 
 #### react-babylon-spring 
