@@ -34,7 +34,7 @@ cookmycode@gmail.com
 [https://cdn.hooke.life/3d-performance/](https://cdn.hooke.life/3d-performance/)
 
 #### 2048 online (python)
-[http://2048.hooke.life/](http://2048.hooke.life)
+[https://e2048.hooke.life/guest](https://e2048.hooke.life/guest)
 
 #### 打飞机游戏 (canvas 2d)
 [http://cdn.hooke.life/airplane/](http://cdn.hooke.life/airplane/)
