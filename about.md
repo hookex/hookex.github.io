@@ -24,15 +24,15 @@ cookmycode@gmail.com
 #### Github
 [https://github.com/hookex](https://github.com/hookex)
 
-#### react-babylon-spring
+#### react-babylon-spring (webGL、react、spring)
 https://cdn.hooke.life/bviz/
 
-#### 2048 online
+#### 2048 online (python)
 [http://2048.hooke.life/](http://2048.hooke.life)
 
 #### ~~Angular Today~~
 [https://ng.today/](https://ng.today) （建设中）
 
 
-#### 打飞机游戏
+#### 打飞机游戏 (canvas 2d)
 [http://cdn.hooke.life/airplane/](http://cdn.hooke.life/airplane/)
