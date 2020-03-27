@@ -22,7 +22,7 @@ cookmycode@gmail.com
 [https://hooke.life](https://hooke.life)
 
 #### react-babylon-spring
-http://cdn.hooke.life/bviz/
+https://cdn.hooke.life/bviz/
 
 #### Github
 [https://github.com/hookex](https://github.com/hookex)
