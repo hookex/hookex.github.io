@@ -1,6 +1,6 @@
 # 网址
 
-https://hooke.li
+https://hooke.life
 
 # 本地启动
 bundle exec jekyll serve
